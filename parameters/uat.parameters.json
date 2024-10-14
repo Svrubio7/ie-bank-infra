@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "sverdugo-dbsrv-dev"
+            "value": "sverdugo-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "sverdugo-db-dev"
+            "value": "sverdugo-db-uat"
         },
         "appServicePlanName": {
-            "value": "sverdugo-asp-dev"
+            "value": "sverdugo-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "sverdugo-be-dev"
+            "value": "sverdugo-be-uat"
         },
         "appServiceAppName": {
-            "value": "sverdugo-fe-dev"
+            "value": "sverdugo-fe-uat"
         },
         "location": {
             "value": "North Europe"
